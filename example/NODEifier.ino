@@ -117,7 +117,7 @@ void sendNotificationWith(String message)
 *               enum { MissedBlocks, RankChanged, VotedOut, VotedIn, TEST }
 *   @out:  sendNotificationWith(message)
 *    
-*       Processes Alert Notification type
+*       Handles and prepares the type of alert to be sent
 *      
 *********************************************************************************/
 void doAlert(AlertType ofType) {

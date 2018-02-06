@@ -17,8 +17,9 @@ POC using Ark-Cpp (https://github.com/ark-iot/ark-cpp)
 ## Hardware & Software
 
   Testing and Development was done using the following:  
-    - [Ark-Cpp](https://github.com/Ark-IoT/Ark-Cpp) Ark Ecosystem Arduino/C++ Wrapper  
+    - [Ark-Cpp](https://github.com/Ark-IoT/Ark-Cpp) (Ark Ecosystem Arduino/C++ Wrapper)  
     - [Arduino IDE](https://www.arduino.cc/en/Main/Software)  
+    - [Adafruit Feather ESP8266](https://www.adafruit.com/product/2821) (Development Board)  
     - [ESP8266 Arduino Core](https://github.com/esp8266/Arduino)  
     - [VSCode](https://code.visualstudio.com/)  
 

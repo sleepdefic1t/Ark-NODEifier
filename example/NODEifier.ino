@@ -112,7 +112,7 @@ void sendNotificationWith(String message)
 
 /********************************************************************************
 *
-*   @method:  sendAlert(ofType)
+*   @method:  doAlert(ofType)
 *   @parameter: Alert Type
 *               enum { MissedBlocks, RankChanged, VotedOut, VotedIn, TEST }
 *   @out:  sendNotificationWith(message)

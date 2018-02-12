@@ -90,7 +90,7 @@ enum AlertType { MissedBlocks, RankChanged, VotedOut, VotedIn, TEST };
 *       Uses arkManager instance to get delegate info from Ark Blockchain.
 *      
 *********************************************************************************/
-void getDelegateStatusFrom(ARK::API::Manager arkManager) {
+void getDelegateStatusFrom(ARK::API::Manager& arkManager) {
 
   ARK::Delegate delegate = arkManager.delegate(DELEGATE_USERNAME);
   
